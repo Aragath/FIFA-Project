@@ -7,4 +7,5 @@
 2. 移除完全重複的row
 3. 移除完全空白的row（不知道產生的原因，但前後的player stat都沒有少）
 4. 移除名稱為FakePlayer的row（此次raw中沒出現）
+5. 將name根據id_conversion_table重新命名
  
