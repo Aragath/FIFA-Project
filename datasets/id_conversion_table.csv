@@ -73,7 +73,7 @@
 237238,Scott McTominay,Manchester United,39
 236480,Yves Bissouma,Brighton & Hove Albion,8
 233934,Aaron Ramsdale,Arsenal,32
-232580,Gabriel,Arsenal,6
+232580,Gabriel1,Arsenal,6
 231943,Richarlison,Everton,7
 229906,Leon Bailey,Aston Villa,31
 227928,Nélson Semedo,Wolverhampton Wanderers,22
@@ -215,7 +215,7 @@
 208004,Joël Veltman,Brighton & Hove Albion,34
 207948,Bertrand Traoré,Aston Villa,15
 207807,Ryan Fraser,Newcastle United,21
-205923,Ben Davies,Tottenham Hotspur,33
+205923,Ben Davies1,Tottenham Hotspur,33
 202282,Stuart Armstrong,Southampton,17
 201417,Matt Doherty,Tottenham Hotspur,2
 198032,Dan Burn,Newcastle United,33
@@ -409,12 +409,12 @@
 205670,Dwight Gayle,Newcastle United,34
 203775,Loris Karius,Liverpool,22
 200408,Ben Gibson,Norwich City,4
-194911,Adrián,Liverpool,13
+194911,Adrián2,Liverpool,13
 183491,Mathias Jorgensen,Brentford,22
 183129,Ciaran Clark,Newcastle United,2
 180706,Craig Cathcart,Watford,15
 139062,Wilfredo Caballero,Southampton,13
-252042,João Pedro,Watford,10
+252042,João Pedro4,Watford,10
 246053,Joe Gelhardt,Leeds United,30
 245715,Jamie Shackleton,Leeds United,46
 243019,Tudor Baluta,Brighton & Hove Albion,35
@@ -439,7 +439,7 @@
 184749,Dan Gosling,Watford,16
 163600,John Ruddy,Wolverhampton Wanderers,21
 163261,Phil Bardsley,Burnley,26
-262416,Chiquinho,Wolverhampton Wanderers,20
+262416,Chiquinho1,Wolverhampton Wanderers,20
 242752,Nathan Ferguson,Crystal Palace,36
 242075,Joshua Sargent,Norwich City,24
 239439,Przemyslaw Placheta,Norwich City,11
@@ -497,7 +497,7 @@
 241614,Jaakko Oksanen,Brentford,38
 237935,Kristoffer Klaesson,Leeds United,13
 52326,Eldin Jakupovic,Leicester City,35
-264260,Brad Young,Aston Villa,43
+264260,Brad Young2,Aston Villa,43
 264035,Jesurun Rak-Sakyi,Crystal Palace,49
 263953,Samuel Edozie,Manchester City,53
 263620,Romeo Lavia,Manchester City,90
@@ -515,7 +515,7 @@
 118794,Andy Lonergan,Everton,31
 266500,Jon Rowe,Norwich City,46
 265788,Zidane Iqbal,Manchester United,73
-261265,Lewis Richards,Burnley,38
+261265,Lewis Richards2,Burnley,38
 259766,Finley Stevens,Brentford,36
 259097,Salah-Edine Oulad M'Hand,Arsenal,65
 258805,Harrison Ashby,West Ham United,50
@@ -735,7 +735,7 @@
 219792,Baptiste Santamaria,Stade Rennais,8
 219466,Birger Meling,Stade Rennais,25
 216643,Léo Dubois,Lyon,14
-215441,Sehrou Guirassy,Stade Rennais,9
+215441,Serhou Guirassy,Stade Rennais,9
 213874,Thiago Mendes,Lyon,23
 209288,Florent Mollet,Montpellier,25
 208861,Johan Gastien,Clermont Foot,25
@@ -823,9 +823,9 @@
 209430,Renaud Ripart,Troyes,20
 204077,M'Baye Niang,Bordeaux,10
 201955,Massadio Haidara,Lens,21
-200677,Pedro Mendes,Montpellier,5
+200677,Pedro Mendes1,Montpellier,5
 193470,Arnaud Souquet,Montpellier,2
-180334,Marcelo,Bordeaux,15
+180334,Marcelo1,Bordeaux,15
 177358,Morgan Schneiderlin,Nice,6
 176772,Alexandre Oukidja,Metz,16
 261084,Bamba Dieng,Marseille,12
@@ -868,7 +868,7 @@
 224883,Steve Mounié,Brest,15
 223570,Junior Sambia,Montpellier,6
 219680,Cédric Hountondji,Clermont Foot,4
-217821,Henrique,Lyon,12
+217821,Henrique4,Lyon,12
 212613,Wesley Saïd,Lens,22
 211382,Ibrahim Amadou,Metz,32
 208449,Christophe Hérelle,Brest,23
@@ -931,7 +931,7 @@
 252936,Alexis Flips,Stade de Reims,12
 251380,Lilian Brassier,Brest,3
 251191,Jim Allevinah,Clermont Foot,11
-248573,Éric Ebimbe,Paris Saint-Germain,36
+248573,Éric-Junior Dina-Ebimbe,Paris Saint-Germain,36
 247124,Gideon Mensah,Bordeaux,14
 241071,Moreto Cassamá,Stade de Reims,23
 236830,Zaydou Youssef,Saint-Etienne,28
@@ -1007,7 +1007,7 @@
 233373,Stephan Diarra,Lorient,7
 231263,Jérémy Gelin,Stade Rennais,4
 229542,Arthur Desmas,Clermont Foot,1
-226773,Pape Diop,Lyon,24
+226773,Pape Diop2,Lyon,24
 222636,Grejohn Kyei,Clermont Foot,9
 199574,Alexandre Letellier,Paris Saint-Germain,60
 184781,Denis Petric,Nantes,30
@@ -1099,7 +1099,7 @@
 263442,Yannis M'Bemba,Nantes,35
 263435,Esey Gebreyesus,Marseille,37
 263398,Paolo Sciortino,Marseille,34
-262738,Mamadou Camara,Troyes,34
+262738,Mamadou Camara1,Troyes,34
 262062,Metinho,Troyes,31
 261892,Denis Franchi,Paris Saint-Germain,40
 257235,Teddy Boulhendi,Nice,16
@@ -1125,7 +1125,7 @@
 209784,Jerome Phojo,Clermont Foot,23
 264506,Justin Smith,Nice,33
 264033,Noah Sow,Brest,33
-263459,Mamadou Camara,Lens,38
+263459,Mamadou Camara2,Lens,38
 263441,Lucas Bonelli,Nantes,40
 263114,Marvin Elimbi Gilbert,Strasbourg,33
 263110,Ibrahima Baldé,Lens,35
@@ -1160,7 +1160,7 @@
 178603,Mats Hummels,Borussia Dortmund,15
 241852,Moussa Diaby,Bayer Leverkusen,19
 234236,Patrik Schick,Bayer Leverkusen,14
-228941,André Silva,RB Leipzig,33
+228941,André Silva2,RB Leipzig,33
 220651,Angeliño,RB Leipzig,3
 209889,Raphaël Guerreiro,Borussia Dortmund,13
 207862,Matthias Ginter,Borussia Monchengladbach,28
@@ -1193,7 +1193,7 @@
 219683,Corentin Tolisso,Bayern Munich,24
 218339,Mahmoud Dahoud,Borussia Dortmund,8
 212096,Vincenzo Grifo,SC Freiburg,32
-210324,Jonas Hofmann,Borussia Monchengladbach,23
+210324,Jonas Hofmann1,Borussia Monchengladbach,23
 209846,Christian Günter,SC Freiburg,30
 206511,Maximilian Arnold,VfL Wolfsburg,27
 199042,Charles Aránguiz,Bayer Leverkusen,20
@@ -1296,7 +1296,7 @@
 254566,Patrick Wimmer,Arminia Bielefeld,20
 246875,Odilon Kossounou,Bayer Leverkusen,6
 246836,Amos Pieper,Arminia Bielefeld,2
-245940,Silas Wamangituka,VfB Stuttgart,14
+245940,Silas Katompa Mvumpa,VfB Stuttgart,14
 245741,Jesper Lindstrom,Eintracht Frankfurt,29
 242663,Sebastiaan Bornauw,VfL Wolfsburg,3
 239712,Masaya Okugawa,Arminia Bielefeld,11
@@ -1340,7 +1340,7 @@
 241925,Chris Führich,VfB Stuttgart,22
 241522,Jonas Wind,VfL Wolfsburg,23
 240916,Dejan Ljubicic,FC Cologne,7
-239970,Paulinho,Bayer Leverkusen,7
+239970,Paulinho4,Bayer Leverkusen,7
 235026,Omar Richards,Bayern Munich,3
 234727,Timo Hübers,FC Cologne,4
 232244,Santiago Ascacibar,Hertha Berlin,18
@@ -1685,7 +1685,7 @@
 181458,Ivan Perisic,Internazionale,14
 178005,Rui Patrício,AS Roma,1
 233096,Denzel Dumfries,Internazionale,2
-230658,Arthur,Juventus,5
+230658,Arthur2,Juventus,5
 229261,Denis Zakaria,Juventus,28
 226754,Ismaël Bennacer,AC Milan,4
 221992,Hirving Lozano,Napoli,11
@@ -1715,8 +1715,8 @@
 205659,Alessio Cragno,Cagliari,28
 202024,Remo Freuler,Atalanta,11
 201519,Jordan Veretout,AS Roma,17
-199304,Danilo,Juventus,6
-199254,João Pedro,Cagliari,10
+199304,Danilo2,Juventus,6
+199254,João Pedro3,Cagliari,10
 198031,Sérgio Oliveira,AS Roma,27
 198009,Mattia Perin,Juventus,36
 184941,Alexis Sánchez,Internazionale,7
@@ -1724,7 +1724,7 @@
 244263,Amir Rrahmani,Napoli,13
 240679,Teun Koopmeiners,Atalanta,7
 236610,Moise Kean,Juventus,18
-236355,Luiz Felipe,Lazio,3
+236355,Luiz Felipe1,Lazio,3
 235374,Manuel Lazzari,Lazio,29
 229857,Stefano Sensi,Sampdoria,5
 228881,Davide Calabria,AC Milan,2
@@ -1764,13 +1764,13 @@
 198946,Danilo D'Ambrosio,Internazionale,33
 193061,Roberto Pereyra,Udinese,37
 190813,Stephan El Shaarawy,AS Roma,92
-189505,Pedro,Lazio,9
+189505,Pedro2,Lazio,9
 189125,Giacomo Bonaventura,Fiorentina,5
 189053,Francesco Caputo,Sampdoria,10
 176550,David Ospina,Napoli,25
 173373,Sergio Romero,Venezia,88
 24630,Pepe Reina,Lazio,25
-246186,Arthur,Fiorentina,9
+246186,Arthur1,Fiorentina,9
 244193,Jovane Cabral,Lazio,11
 242664,Alexis Saelemaekers,AC Milan,56
 242374,Musa Barrow,Bologna,99
@@ -1830,7 +1830,7 @@
 170320,Lorenzo De Silvestri,Bologna,29
 165109,Stefan Radu,Lazio,26
 255654,Pierre Kalulu,AC Milan,20
-251892,Beto,Udinese,9
+251892,Beto2,Udinese,9
 245275,Toma Basic,Lazio,88
 240654,Carles Perez,AS Roma,11
 240091,Guglielmo Vicario,Empoli,13
@@ -2057,7 +2057,7 @@
 149309,Antonio Rosati,Fiorentina,25
 263929,Matteo Cancellieri,Hellas Verona,18
 262091,Ebrima Darboe,AS Roma,55
-259583,Iyenoma Destiny Udogie,Udinese,13
+259583,Destiny Udogie,Udinese,13
 258407,Brandon Soppy,Udinese,93
 257711,Riccardo Calafiori,Genoa,16
 255839,Janis Antiste,Spezia,22
@@ -2125,7 +2125,7 @@
 189730,Francesco Di Tacchio,Salernitana,14
 268271,Moustapha Cissé,Atalanta,99
 264699,Kristjan Asllani,Empoli,23
-256404,Jorge Silva,Lazio,67
+256404,Jorge Silva1,Lazio,67
 255174,Lisandru Tramoni,Cagliari,45
 239998,Petko Hristov,Spezia,15
 266877,Demba Seck,Torino,23
@@ -2146,7 +2146,7 @@
 255070,Luis Rojas,Bologna,11
 257299,Ivo Kaczmarski,Empoli,97
 255755,Jack De Vries,Venezia,99
-247289,Bruno,Venezia,34
+247289,Bruno1,Venezia,34
 259973,Pietro Boer,AS Roma,63
 255927,Damiano Pecile,Venezia,58
 235806,Giacomo Satalino,Sassuolo,24
@@ -2157,7 +2157,7 @@
 228702,Frenkie de Jong,Barcelona,21
 208093,Gerard Moreno,Villarreal,7
 189513,Dani Parejo,Villarreal,5
-176580,Luis Suárez,Atletico Madrid,9
+176580,Luis Suárez1,Atletico Madrid,9
 230142,Mikel Oyarzabal,Real Sociedad,10
 226161,Marcos Llorente,Atletico Madrid,14
 216594,Nabil Fekir,Real Betis,8
@@ -2200,10 +2200,10 @@
 230869,Unai Simón,Athletic Club,1
 229668,Mario Hermoso,Atletico Madrid,22
 219693,Diego Carlos,Sevilla,20
-210315,Raúl de Tomás,Espanyol,11
+210315,Raúl de Tomás1,Espanyol,11
 209981,Bono,Sevilla,13
 205632,Lucas Ocampos,Sevilla,5
-201305,Gabriel,Valencia,5
+201305,Gabriel2,Valencia,5
 197781,Isco,Real Madrid,22
 183512,Yuri Berchiche,Athletic Club,17
 168651,Ivan Rakitic,Sevilla,10
@@ -2228,7 +2228,7 @@
 173731,Gareth Bale,Real Madrid,18
 157481,Raúl Albiol,Villarreal,3
 156519,Héctor Herrera,Atletico Madrid,16
-45186,Joaquín,Real Betis,17
+45186,Joaquín2,Real Betis,17
 243812,Rodrygo,Real Madrid,21
 232665,Mauro Arambarri,Getafe,18
 227950,Yeray,Athletic Club,5
@@ -2254,7 +2254,7 @@
 189271,Francis Coquelin,Villarreal,19
 178750,Sergio Asenjo,Villarreal,1
 172522,Daniel Wass,Atletico Madrid,17
-171579,Raúl García,Athletic Club,22
+171579,Raúl García2,Athletic Club,22
 253004,Ansu Fati,Barcelona,10
 248243,Eduardo Camavinga,Real Madrid,25
 245037,Eric García,Barcelona,24
@@ -2274,7 +2274,7 @@
 224003,Sergio Herrera,Osasuna,1
 220673,Renato Tapia,Celta Vigo,14
 220253,Munir El Haddadi,Sevilla,11
-213956,Adama Traoré,Barcelona,11
+213956,Adama Traoré2,Barcelona,11
 211241,Rubén Peña,Villarreal,20
 211022,Rubén García,Osasuna,14
 207732,Roger Martí,Levante,9
@@ -2353,7 +2353,7 @@
 216549,Alexander Sørloth,Real Sociedad,23
 208777,Óliver Torres,Sevilla,21
 207664,Carlos Bacca,Granada,20
-205566,Alberto Moreno,Villarreal,18
+205566,Alberto Moreno2,Villarreal,18
 203177,Dimitri Foulquier,Valencia,20
 201377,Jeison Murillo,Celta Vigo,24
 199715,Vitolo,Getafe,8
@@ -2375,7 +2375,7 @@
 247328,Unai Vencedor,Athletic Club,16
 247131,Alfonso Espino,Cádiz,22
 246113,Adriá Pedrosa,Espanyol,3
-245158,Luis Suárez,Granada,9
+245158,Luis Suárez2,Granada,9
 240915,Juan Miranda,Real Betis,33
 240716,Mathías Olivera,Getafe,17
 240458,Ander Guevara,Real Sociedad,16
@@ -2391,7 +2391,7 @@
 222390,Unai López,Rayo Vallecano,12
 221832,Lucas Olaza,Elche,12
 219391,Gonzalo Escalante,Alavés,16
-216447,Álvaro García,Rayo Vallecano,18
+216447,Álvaro García2,Rayo Vallecano,18
 215699,Youssouf Sabaly,Real Betis,23
 215057,Iván Marcone,Elche,23
 212678,Ludwig Augustinsson,Sevilla,3
@@ -2468,7 +2468,7 @@
 146758,Roberto Soldado,Levante,16
 259694,Óscar Mingueza,Barcelona,22
 252837,Nicolás Melamed,Espanyol,21
-252327,Manuel Sánchez,Osasuna,39
+252327,Manuel Sánchez2,Osasuna,39
 252084,Marcos de Sousa,Valencia,22
 246672,Ander Barrenetxea,Real Sociedad,22
 246284,Óscar Gil,Espanyol,12
@@ -2504,7 +2504,7 @@
 211101,Rubén Blanco,Celta Vigo,13
 208622,Rubén Sobrino,Cádiz,21
 208137,Lucas Torró,Osasuna,24
-206219,Juan Cruz,Osasuna,3
+206219,Juan Cruz2,Osasuna,3
 205193,Karim Rekik,Sevilla,4
 204876,Carlos Clerc,Levante,19
 204152,Jens Jonsson,Cádiz,2
@@ -2534,7 +2534,7 @@
 229667,Josan,Elche,17
 228805,Antonio Raillo,Mallorca,21
 225204,Raúl Guti,Elche,8
-223978,Manu García,Alavés,14
+223978,Manu García2,Alavés,14
 218981,Helibelton Palacios,Elche,14
 216605,Carlos Akapo,Cádiz,15
 215616,Jason,Alavés,25
@@ -2640,8 +2640,8 @@
 255140,Pablo Gozalbez Gilabert,Valencia,35
 253416,Raul García,Real Betis,35
 252865,Iker Losada,Celta Vigo,36
-243604,Juan Cruz,Real Betis,39
-243156,Álvaro García,Espanyol,33
+243604,Juan Cruz1,Real Betis,39
+243156,Álvaro García1,Espanyol,33
 240997,Enrique Hermoso,Real Betis,37
 225395,Jokin Ezkieta,Athletic Club,13
 264116,Alejandro Iturbe,Atletico Madrid,33
@@ -2660,9 +2660,9 @@
 236914,Álex Martín,Celta Vigo,41
 236028,Javier Díaz,Sevilla,31
 228869,Sergio Camus,Atletico Madrid,37
-264158,Diego Moreno,Osasuna,36
+264158,Diego Moreno2,Osasuna,36
 264105,Josep Gaya,Mallorca,29
-263945,Alberto Moreno,Atletico Madrid,28
+263945,Alberto Moreno1,Atletico Madrid,28
 263943,Javier Serrano,Atletico Madrid,26
 261680,Gori,Espanyol,32
 260340,Max Svensson,Espanyol,26
@@ -2701,7 +2701,7 @@
 264098,Amankwaa Akurugu,Getafe,28
 264092,Alan Godoy,Alavés,35
 262935,Unai Rementeria,Athletic Club,27
-260828,Raúl de Tomás,Rayo Vallecano,37
+260828,Raúl de Tomás2,Rayo Vallecano,37
 259530,Alfonso Pastor,Sevilla,33
 258923,Arribas,Real Madrid,30
 257248,Martín Solar,Granada,34
@@ -2734,10 +2734,10 @@
 258689,Diego Bri,Elche,29
 197655,Sebastián Coates,Sporting CP,4
 229391,João Palhinha,Portugal,19
-216547,Rafa,Portugal,15
-210411,Otávio,Portugal,16
+216547,Rafa1,Portugal,15
+210411,Otávio1,Portugal,16
 210035,Alejandro Grimaldo,Benfica,3
-120533,Pepe,Portugal,3
+120533,Pepe2,Portugal,3
 240950,Pedro Gonçalves,Sporting CP,28
 211990,Odisseas Vlachodimos,Greece,1
 198950,Pablo Sarabia,Spain,22
@@ -2753,18 +2753,18 @@
 235688,Lucas Verissimo,Benfica,4
 222716,Everton,Benfica,7
 222028,Julian Weigl,Benfica,28
-216531,Paulinho,Sporting CP,21
+216531,Paulinho1,Sporting CP,21
 213516,Ricardo Horta,Braga,21
 210897,Chancel Mbemba,FC Porto,19
 208104,Matheus,Braga,1
 257179,Gonçalo Inacio,Sporting CP,25
 255253,Vitinha,FC Porto,20
 239482,Wanderson Galeno,FC Porto,13
-227890,Nuno Santos,Sporting CP,11
+227890,Nuno Santos1,Sporting CP,11
 212213,Ricardo Esgaio,Sporting CP,47
 205705,Zouhair Feddal,Sporting CP,3
 256612,Evanilson,FC Porto,30
-252308,Ali Mohamed Al Musrati,Braga,8
+252308,Elmutasem El Masrati,Braga,8
 238896,Pepê,FC Porto,11
 235619,Marcus Edwards,Sporting CP,23
 234577,Diogo Costa,Portugal,22
@@ -2786,7 +2786,7 @@
 211147,Valentino Lazaro,Austria,22
 179605,Adel Taarabt,Benfica,49
 20775,Ricardo Quaresma,Guimaraes,7
-257290,Joao Mario,FC Porto,23
+257290,Joao Mario1,FC Porto,23
 252143,Daniel Bragança,Sporting CP,68
 251528,Zaidu Sanusi,FC Porto,12
 246098,Vitor Tormena,Braga,3
@@ -2794,10 +2794,10 @@
 243656,Nemanja Radonjic,Benfica,23
 238858,Bruno Tabata,Sporting CP,7
 238857,Manafá,FC Porto,18
-235210,Pedrinho,Gil Vicente,8
+235210,Paulinho5,Gil Vicente,8
 234826,Antonio Martínez,FC Porto,29
 231390,Diogo Gonçalves,Benfica,17
-225696,Murilo,Gil Vicente,77
+225696,Murilo1,Gil Vicente,77
 217699,Islam Slimani,Sporting CP,9
 217235,Zainadine Júnior,Marítimo,5
 216466,Wendell,FC Porto,22
@@ -2823,7 +2823,7 @@
 247138,Fran Navarro,Gil Vicente,9
 244797,Petar Musa,Boavista,9
 242087,Hidemasa Morita,Santa Clara,25
-239872,Pablo,Moreirense,28
+239872,Pablo2,Moreirense,28
 239250,Abel Ruiz,Braga,9
 234935,Talocha,Gil Vicente,31
 233585,Lincoln,Santa Clara,10
@@ -2844,18 +2844,18 @@
 258786,Zé Carlos,Gil Vicente,2
 257899,Kanya Fujimoto,Gil Vicente,10
 251901,Willyan Sotto,Portimonense,4
-251438,Nuno Santos,Paços de Ferreira,77
+251438,Nuno Santos2,Paços de Ferreira,77
 246070,Iván Jaime,Famalicão,10
 241976,Tiago Sá,Braga,12
 241708,Modibo Sagnan,Tondela,5
-239950,Pepe,Famalicão,88
+239950,Pepe1,Famalicão,88
 239875,Bebeto,Tondela,23
 238856,Pedro Sá,Portimonense,21
 233329,Mikel Villanueva,Santa Clara,3
 231652,Simon Banza,Famalicão,17
 225456,Joel,Marítimo,95
 224538,Pedro Nuno,Belenenses,7
-218936,Rafa,Guimaraes,5
+218936,Rafa2,Guimaraes,5
 212406,Jordi,Paços de Ferreira,1
 204731,Joãozinho,Estoril,31
 200984,Rafael Martins,Moreirense,99
@@ -2902,8 +2902,8 @@
 258885,Luiz Júnior,Famalicão,31
 258698,Afonso Sousa,Belenenses,10
 257293,Sphephelo Sithole,Belenenses,8
-255371,Marcos Paulo,FC Famalicao,9
-252150,Patrick,Estoril,97
+255371,Marcos Paulo2,FC Famalicao,9
+252150,Patrick2,Estoril,97
 251994,Tiago Esgaio,Arouca,31
 251990,Luquinha,Portimonense,20
 244006,Lucas Áfrico,Estoril,4
@@ -2923,24 +2923,24 @@
 233884,Charles Pickel,FC Famalicao,6
 232388,Vítor Costa,Marítimo,94
 231868,Leonardo Ruiz,Estoril,18
-230027,Leandro Silva,Arouca,21
+230027,Leandro Silva2,Arouca,21
 229889,André Bukia,Arouca,10
 229319,Jhonder Cádiz,FC Famalicao,29
 229255,Charles,Vizela,87
 226278,António Xavier,Estoril,92
-223818,João Afonso,Santa Clara,5
+223818,João Afonso1,Santa Clara,5
 216580,Cláudio Winck,Marítimo,2
 215665,Filipe Ferreira,Boavista,20
-213557,João Pedro,Tondela,8
+213557,João Pedro2,Tondela,8
 204401,Diogo Figueiras,FC Famalicao,90
 199848,Pedro Moreira,Arouca,20
-186568,Marcos Paulo,Vizela,17
+186568,Marcos Paulo1,Vizela,17
 264022,Gonçalo Esteves,Sporting CP,87
 262429,Matheus Costa,Marítimo,4
 262417,Daniel Figueira,Estoril,99
 262413,Carles Soria,Estoril,2
 259075,Yan Couto,Braga,2
-258356,Pedro Henrique,Portimonense,44
+258356,Pedro Henrique2,Portimonense,44
 258350,Lucas Silva,Paços de Ferreira,23
 255471,Carvalho,Gil Vicente,21
 253276,Rodrigo Abascal,Boavista,26
@@ -2951,7 +2951,7 @@
 248831,Mohamed Lamine Diaby,Paços de Ferreira,24
 247288,Ibrahima Camará,Moreirense,8
 244020,André Ferreira,Paços de Ferreira,13
-243918,Diogo Mendes,Marítimo,16
+243918,Diogo Mendes1,Marítimo,16
 243270,Heriberto Tavares,FC Famalicao,91
 242389,Rafael Barbosa,Tondela,70
 239922,Rui Costa,Santa Clara,77
@@ -2961,7 +2961,7 @@
 236630,Walterson,Moreirense,7
 236255,Joao Basso,Arouca,13
 234627,Yan,Moreirense,11
-232228,Daniel,Tondela,29
+232228,Daniel1,Tondela,29
 231688,Thibang Phete,Belenenses,21
 228589,Raphael Guzzo,Vizela,8
 225402,Bruno Gaspar,Guimaraes,3
@@ -2981,27 +2981,27 @@
 264427,Juan Manuel Boselli,Tondela,11
 263439,Paulo Bernardo,Benfica,55
 263238,Sayedpayam Niazmand,Portimonense,12
-262932,Henrique,Marítimo,93
+262932,Henrique2,Marítimo,93
 262412,Rosier Loreintz,Estoril,32
 260740,Jackson Porozo,Boavista,21
 259771,Léo Andrade,Marítimo,66
 258328,Kewin,Moreirense,1
 254258,Nilton Varela Lopes,Belenenses,5
-254225,Anderson Oliveira,Portimonense,11
+254225,Anderson Oliveira2,Portimonense,11
 252291,Pedro Augusto,Tondela,6
 251615,Moura,Braga,74
 248811,Bruno Lourenco,Estoril,20
 248004,Andrei Chindris,Santa Clara,15
-246974,Diogo Mendes,Belenenses,2
+246974,Diogo Calila,Belenenses,2
 243055,Rafael Camacho,Belenenses,64
-242448,André Silva,Arouca,7
+242448,André Silva1,Arouca,7
 242406,André Clóvis,Estoril,9
 240943,Bilel Aouacheria,Gil Vicente,7
 239919,Koffi Kouao,Vizela,39
 239814,Dylan Batubinsika,FC Famalicao,19
 237435,Ryotaro Meshino,Estoril,26
 236800,Iván Angulo,Portimonense,70
-236673,Pedro Marques,FC Famalicao,25
+236673,Pedro Marques1,FC Famalicao,25
 234164,China,Marítimo,45
 233870,Ricardo Alves,Tondela,34
 232562,Kosuke Nakamura,Portimonense,32
@@ -3010,11 +3010,11 @@
 229361,Iker Undabarrena,Tondela,21
 222840,Racine Coly,Estoril,14
 222358,Oscar Barreto,Santa Clara,20
-220693,João Afonso,Gil Vicente,6
+220693,João Afonso2,Gil Vicente,6
 201186,Ivo Goncalves,Vizela,84
 194956,Edgar Costa,Marítimo,12
 263897,Filipe Relvas,Portimonense,22
-263232,Luiz Felipe,Belenenses,1
+263232,Luiz Felipe2,Belenenses,1
 263059,Tomás Händel,Guimaraes,76
 262985,Nuno Moreira,Vizela,79
 262438,Mateus Quaresma,Arouca,6
@@ -3026,7 +3026,7 @@
 257162,Fabiano,Braga,70
 251669,Rui Pires,Paços de Ferreira,26
 251504,Sori Mané,Moreirense,16
-251232,Jorge Silva,Paços de Ferreira,21
+251232,Jorge Silva2,Paços de Ferreira,21
 248833,Uilton,Paços de Ferreira,9
 246866,Pedro Pelágio,Marítimo,60
 246093,André Luis,Moreirense,9
@@ -3045,7 +3045,7 @@
 216815,Flavio,Paços de Ferreira,32
 213878,Welinton Júnior,Portimonense,93
 213795,Kiki,Vizela,24
-212374,Jefferson,Moreirense,35
+212374,Jefferson2,Moreirense,35
 212367,Igor Julião,Vizela,14
 208391,Richard Ofori,Vizela,37
 207943,Ewerton,Portimonense,7
@@ -3139,7 +3139,7 @@
 263547,Dalberson,FC Famalicao,13
 263342,Volnei Feltes,Estoril,5
 260167,Bruno Rodrigues,Braga,86
-259325,Jefferson,Moreirense,37
+259325,Jefferson1,Moreirense,37
 259018,Diogo Silva,Gil Vicente,4
 258919,Moises Castillo Mosquera,Marítimo,3
 258360,Julio Rodrigues Romao,Santa Clara,19
@@ -3149,7 +3149,7 @@
 252471,Abbas Ibrahim,Paços de Ferreira,8
 240951,Boubacar Hanne,Gil Vicente,17
 263234,Pedro Teixeira,Marítimo,96
-262268,Guilherme,Braga,42
+262268,Guilherme2,Braga,42
 257194,Arcanjo,Tondela,80
 255255,Paulo Estrela,Portimonense,38
 245334,Joao Caiado,Gil Vicente,20
@@ -3195,7 +3195,7 @@
 258031,Florian Palmowski,Hertha Berlin,38
 251301,Julian Albrecht,Hertha Berlin,39
 244364,Gabriel Brazão,Internazionale,99
-184134,Fernando,Sevilla,25
+184134,Fernando1,Sevilla,25
 258185,Luis Carbonell,Real Madrid,29
 203038,Lucas Piazon,Braga,11
 236303,Jean,Gil Vicente,25
@@ -3205,7 +3205,7 @@
 241435,Khanya Leshabela,Leicester City,40
 242639,Shane Flynn,Leicester City,43
 261134,Marqes Muir,Tottenham Hotspur,68
-262785,Brad Young,Leicester City,61
+262785,Brad Young1,Leicester City,61
 211461,Luiz Phellype,Santa Clara,29
 228810,Joseph Amoah,Guimaraes,15
 251534,Eduardo Kau,Belenenses,44
@@ -3248,10 +3248,10 @@
 259355,Steeve-Mike Eboa Ebongue,Genoa,99
 252916,Ignacio Ramon,Elche,37
 197965,Pizzi,Istanbul Basaksehir,20
-243686,Chiquinho,Giresunspor,22
-184139,Ricardo Ferreira,Portimonense,1
+243686,Chiquinho2,Giresunspor,22
+184139,Ricardo Ferreira1,Portimonense,1
 247258,Lawrence Ofori,FC Famalicao,80
-252827,João Pedro,Paços de Ferreira,45
+252827,João Pedro1,Paços de Ferreira,45
 225748,Todd Cantwell,Bournemouth,14
 222514,Freddie Woodman,Bournemouth,1
 240926,Nathaniel Phillips,Bournemouth,2
@@ -3263,7 +3263,7 @@
 243057,Neco Williams,Fulham,20
 234679,Philippe Sandler,Feyenoord Rotterdam,13
 254088,Amad Diallo,Rangers,9
-242908,Jack Clarke,Sunderland,25
+242908,Jack Clarke1,Sunderland,25
 241523,Marcus Forss,Hull City,44
 228997,Charles Goode,Sheffield United,26
 233442,Jordi Osei-Tutu,Rotherham United,7
@@ -3286,10 +3286,10 @@
 258529,Vontae Daley-Campbell,Dundee,22
 246092,Ali Reghba,Leicester City,44
 242297,Andreas Söndergaard,Wolverhampton Wanderers,62
-259430,Marcelo,Liverpool,97
+259430,Marcelo3,Liverpool,97
 248711,Allan Tchaptchet,Grenoble,21
 165229,Laurent Koscielny,Bordeaux,6
-222715,Otávio,Bordeaux,5
+222715,Otávio2,Bordeaux,5
 235161,Josh Maja,Stoke City,33
 238504,Amine Bassi,Barnsley,27
 208862,Jimmy Giraudon,Leganés,15
@@ -3323,7 +3323,7 @@
 257082,Marius Liesegang,Dynamo Dresden,31
 256392,Alou Kuol,SV Sandhausen,29
 186561,Aaron Ramsey,Rangers,16
-222943,Jony,Sporting Gijón,9
+222943,Jony2,Sporting Gijón,9
 246960,Mohamed Ihattaren,Ajax Amsterdam,27
 137506,Goran Pandev,Parma,27
 240017,Andreas Skov Olsen,Club Brugge,7
@@ -3369,7 +3369,7 @@
 253378,Tomás Ribeiro,Grasshoppers,14
 209695,Eugeni Valderrama,Real Zaragoza,8
 252139,Filipe Soares,PAOK Salonika,50
-225106,Jorge,Mirandés,3
+225106,Jorge2,Mirandés,3
 237380,Hamidou Keyta,Santa Clara,76
 262431,Evrard Zag,Vizela,13
 262986,Tomás Silva,Vizela,82
@@ -3435,7 +3435,7 @@
 246349,Dilan Kumar Markanday,Blackburn Rovers,18
 264189,Maksim Paskotši,Tottenham Hotspur,48
 251407,Jack Young,Wycombe Wanderers,15
-251590,Lewis Richards,Harrogate Town,33
+251590,Lewis Richards1,Harrogate Town,33
 215927,Renaud Emond,Standard Liege,18
 205243,Molla Wagué,RFC Seraing,25
 239363,Kouadio Dabila,RFC Seraing,13
@@ -3557,7 +3557,7 @@
 262744,Mohamed Bouldini,Fuenlabrada,25
 209984,Mikel Agu,Fuenlabrada,22
 258306,Jean Patric,Cerezo Osaka,26
-258783,Guilherme Mantuan,Gil Vicente,97
+258783,Mantuan,Gil Vicente,97
 230860,Denis Poha,Pau,22
 239915,Pedro Martelo,Paços de Ferreira,81
 257492,Zé Oliveira,Paços de Ferreira,25
@@ -3567,7 +3567,7 @@
 253052,Issa Kabore,Troyes,29
 259671,Yaya Soumare,Lyon,41
 153079,Sergio Agüero,Barcelona,19
-229337,Matheus Pereira,Barcelona,47
+229337,Matheus Pereira2,Barcelona,47
 259171,José Manuel Cabrera,Villarreal,32
 241462,Ramiro Guerra,Villarreal,29
 264561,James Norris,Liverpool,77
@@ -3594,7 +3594,7 @@
 257630,Krisztofer Horváth,Torino,60
 246877,Gianluca Gaetano,Napoli,70
 248694,Ibrahim Karamoko,Torino,86
-212814,Joao Mario,Portugal,24
+212814,Joao Mario2,Portugal,24
 221540,Raul,Braga,34
 234929,Gleison Moreira,Portimonense,92
 236020,Cristian Tassano,Santa Clara,17
@@ -3606,15 +3606,22 @@
 227562,Lukas Haraslin,Sparta Prague,22
 260823,Nicolo Fagioli,Juventus,44
 224179,Borja Iglesias,Real Betis,9
-262433,Marcelo,Vizela,12
+262433,Marcelo6,Vizela,12
 176285,Winston Reid,New Zealand,39
 260115,Philip Yeboah Ankrah,Hellas Verona,45
 240799,Davide Zappella,Empoli,23
 248228,Víctor De Baunbag,Mallorca,37
 224394,Fábio Martins,Braga,26
-208141,Gabriel,Benfica,8
+208141,Gabriel3,Benfica,8
 220735,Tanque,Paços de Ferreira,99
 211231,Ramon Azeez,Granada,12
 245996,Kingsley Fobi,Granada,44
 264102,Álvaro Bravo,Fuenlabrada,3
 204884,Benjamin Mendy,Manchester City,22
+1,Gavi,Barcelona,30
+198811,Fredrik Oldrup Jensen,,
+220517,Francesco Di Mariano,,
+202550,Anderson Carvalho,,
+234499,Pedro Sánchez,,
+212943,Mauro Caballero,,
+2,Geovani,,
