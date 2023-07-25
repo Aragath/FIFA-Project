@@ -3,13 +3,21 @@ This project aims to utilize Graph Neural Network to predict the results of socc
 Inspired by: https://deepfindr.github.io/
 
 - [Key words](#Key-words)
+  
 - [Purpose of project](#Purpose-of-project)
+  
 - [Overview and comparison of existing related research](#Overview-and-comparison-of-existing-related-research)
+  
 - [Research methods](#Research-methods)
+  
 - [Implementation](#Implementation)
+  
 - [Experiment](#Experiment)
+  
 - [Performance and Result](#Performance-and-Result)
+  
 - [Conclusion](#Conclusion)
+  
 - [Reference](#Reference)
  
 ## Key words
@@ -23,11 +31,13 @@ Compared with other machine learning fields, the research of graph neural networ
 
 ## Research methods
 ![Alt text](https://imgur.com/a/CpJPdDL)
+
 I divided the overall project architecture into three parts:
 1. Graph conversion: For GNN, the input data must be in the form of a Graph, so before training, the unstructured data  (formations & player statistics) must be converted into graphs. Therefore, I convert each match into a graph, each of them will have 22 nodes, representing all players on the field (11 from the home team and 11 from the away team). More, there are edges connecting nodes to form the graph. The graph data processing is therefore divided into two parts:
     1. Node: A Node represents a player on the court, and each node will have 40 Features (i.e. X, Y, Height, Ball Skills, Defense…)
     2. Edge: To present the formation of the team, there will be edge connections between nodes. Edges will connect two adjacent nodes (side-to-side and front-to-back), and the node in the front will also be connected to the opponent's front node, completing the graph conversion of a single match.
     ![Alt text](https://imgur.com/a/6HgPsLd)
+
 2. Model training: After processing the conversion of graphs, model training will be carried out next. During this part, I imported hyperparameter search, adjusting parameters with different initializations like model depth, number of neurons, learning rate, etc.
 3. Ensemble: After training multiple models, I selected models with better performance for ensembling, and used ensembles to predict outcomes of matches (away win/tie/home win) for evaluation.
 
@@ -36,6 +46,7 @@ I divided the overall project architecture into three parts:
     1. Transformers Convolution Layer: When training the model, I refer to the attention concept in Transformers. Since how graphs are connected is arbitrarily designed, and there are no differences in the weights between edges, the introduction of Attention allows the model to determine the importance of an edge between a node and another node.
     2. Top-K Graph Pooling: Different from node-level prediction, for graph-level prediction, models need to reduce all feature Data (node embedding) of the graph to an embedding vector as the representation of that graph. I am utilizing Top-K Pooling as the hierarchical pooling. The model will select which K nodes will stay according to a learnable vector, and iteratively reduce the number of nodes in the graph. After message passing, the feature data of the removed nodes will be distributed to neighboring nodes. The final embedding vector composition is the average and maximum value of all node vectors at each stage at that time.
 ![Alt text](https://imgur.com/a/lbrFWuZ)
+
 The overall design of the model is shown below. It consists of several blocks of Transformer Convolution Layer, Linear Transformation Layer, and Batch Normalization Layer, and then the input graph will be downsized through the Top-K Pooling Layer. The average and maximum values of Node Embedding are used for the composition of the final graph representation every time the pooling layer is passed.
 ![Alt text](https://imgur.com/a/4bYVYvM)
 
@@ -63,6 +74,7 @@ The overall design of the model is shown below. It consists of several blocks of
 
 ## Performance and Result
 ![Alt text](https://imgur.com/a/B7czjX1)
+
 The results are shown in the table above. Using the target with the largest proportion (home victory) among the three labels in the Dataset (away win/tie/home win) as the baseline, it can be seen that all 8 models have successfully improved the accuracy by about 10%. In addition, the two combinations of Voting-Avg Output and Avg-Vote Var composed of F1 Score at a threshold of 30% both achieved an Accuracy of nearly 80%, while Avg-Avg Output composed of Accuracy stood out for the rest of the thresholds.
 
 ## Conclusion
