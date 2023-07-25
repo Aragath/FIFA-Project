@@ -1,6 +1,6 @@
 # Datasets
 ## raw:
-Crawled raw player statistics data
+Crawled raw match data
 
 ## processed:
 Processed graph data (.pt)
