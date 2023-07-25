@@ -30,7 +30,7 @@ The original idea of this project came from my enthusiasm for sports events, and
 Compared with other machine learning fields, the research of graph neural networks are relatively unpopular, but the application of graph neural network is quite extensive nowadays. At present, it is mostly used in chemistry, transportation, and recommendation systems, and there is also related research on images, text, etc. [1]. Recently, there are related papers on the application of graph neural networks to the prediction of sports events [2], but the main research objects are American football and e-sports, and the research focuses on adding representations to the input graphs to improve the performance of the model, which is a little different from this project.
 
 ## Research methods
-![Imgur Image](https://imgur.com/gallery/KA9pcSx) 
+![Imgur Image](https://i.imgur.com/u2ksw7k.png) 
 
 I divided the overall project architecture into three parts:
 1. Graph conversion: For GNN, the input data must be in the form of a Graph, so before training, the unstructured data  (formations & player statistics) must be converted into graphs. Therefore, I convert each match into a graph, each of them will have 22 nodes, representing all players on the field (11 from the home team and 11 from the away team). More, there are edges connecting nodes to form the graph. The graph data processing is therefore divided into two parts:
