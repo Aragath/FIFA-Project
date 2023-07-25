@@ -3,21 +3,13 @@ This project aims to utilize Graph Neural Network to predict the results of socc
 Inspired by: https://deepfindr.github.io/
 
 - [Key words](#key-words)
-  
 - [Purpose of project](#purpose-of-project)
-  
 - [Overview and comparison of existing related research](#overview-and-comparison-of-existing-related-research)
-  
 - [Research methods](#research-methods)
-  
 - [Implementation](#implementation)
-  
 - [Experiment](#experiment)
-  
 - [Performance and Result](#performance-and-result)
-  
 - [Conclusion](#conclusion)
-  
 - [Reference](#reference)
  
 ## Key words
